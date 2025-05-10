@@ -12,7 +12,9 @@ This repository contains a solution to **Mission 1** of the HENNGE test case.
 ### 🐧 For Linux/Mac/WSL:
 ```bash
 python main.py < input.txt
+```
 
 ### 🐧 For Windows CMD or PowerShell:
 ```bash
 type input.txt | python main.py
+```
